@@ -1,0 +1,10 @@
+h1{
+    border: solid;
+    color: aqua;
+    margin: 50px;
+}
+p{
+    border: solid;
+    background-color: brown;
+    padding: 50px;
+}
